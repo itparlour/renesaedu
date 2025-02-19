@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'IcoFont';
+	src: url(/assets/fonts/IcoFont-c280f99480dd231296301b73e56ea977.woff2) format('woff2'),
+	url(/assets/fonts/IcoFont-078872c693e7758fcb5dd48d4e79de19.woff) format('woff');
+	font-weight: 400;
+	font-style: Regular;
+	font-display: auto;
+}

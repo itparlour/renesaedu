@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Font Awesome 6 Free';
+	src: url(/assets/fonts/Font%20Awesome%206%20Free-56bd190ba440199867695444264c80d9.woff2) format('woff2'),
+	url(/assets/fonts/Font%20Awesome%206%20Free-2951999b8f79aa37d2424d80ebf17e87.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: block;
+}
+
+@font-face {
+	font-family: 'Font Awesome 6 Free';
+	src: url(/assets/fonts/Font%20Awesome%206%20Free-ad83364d5294766b169d404cc96149c5.woff2) format('woff2'),
+	url(/assets/fonts/Font%20Awesome%206%20Free-990ef04935206eeeb55bd29095c84385.ttf) format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: block;
+}
